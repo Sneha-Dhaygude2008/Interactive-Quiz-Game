@@ -192,25 +192,6 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 });
 
-//   // --- Header Button Control (for index page) ---
-//   const signInBtn = document.getElementById("signInBtn");
-//   const startQuizBtn = document.getElementById("startQuizBtn");
-//   const logoutBtn = document.getElementById("logoutBtn");
-//   const isLoggedIn = localStorage.getItem("isLoggedIn");
-
-//   if (signInBtn && startQuizBtn && logoutBtn) {
-//     if (isLoggedIn === "true") {
-//       signInBtn.style.display = "none";
-//       startQuizBtn.style.display = "inline-block";
-//       logoutBtn.style.display = "inline-block";
-//     } else {
-//       signInBtn.style.display = "inline-block";
-//       startQuizBtn.style.display = "none";
-//       logoutBtn.style.display = "none";
-//     }
-//   }
-// });
-
 
 // --- Navigation and Logout Functions ---
 function goToSignIn() {
@@ -228,3 +209,4 @@ function logout() {
   alert("You have been logged out successfully.");
   window.location.href = "signin.html";
 }
+
