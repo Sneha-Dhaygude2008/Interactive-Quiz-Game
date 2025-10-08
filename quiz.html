@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>QuizMaster - Quiz</title>
+  <link rel="stylesheet" href="style.css" />
+  <script defer src="script.js"></script>
+</head>
+<body>
+  <header>
+    <h1>QuizMaster</h1>
+    <div id="headerButtons">
+      <button id="logoutBtn" onclick="logout()">Logout</button>
+    </div>
+  </header>
+
+  <div class="container">
+    <h2 id="question"></h2>
+    <div id="options"></div>
+    <p id="timer"></p>
+    <button id="submitBtn" onclick="finishQuiz()" style="display: none;">Submit Quiz</button>
+
+
+  </div>
+
+  <footer>
+    <p>© 2025 QuizMaster | support@quizmaster.com</p>
+  </footer>
+</body>
+</html>

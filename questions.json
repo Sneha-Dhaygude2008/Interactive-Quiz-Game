@@ -1,0 +1,162 @@
+[
+{
+"question": "What does HTML stand for?",
+"options": ["Hyperlinks and Text Markup Language", "Hyper Text Markup Language", "Home Tool Markup Language", "Hyperlink Text Management Language"],
+"answer": "Hyper Text Markup Language"
+},
+{
+"question": "Which tag is used to insert a line break in HTML?",
+"options": ["<br>", "<hr>", "<lb>", "<break>"],
+"answer": "<br>"
+},
+{
+"question": "Which HTML attribute is used to define inline styles?",
+"options": ["style", "class", "font", "styles"],
+"answer": "style"
+},
+{
+"question": "Which language is used for styling web pages?",
+"options": ["HTML", "JQuery", "CSS", "XML"],
+"answer": "CSS"
+},
+{
+"question": "What does CSS stand for?",
+"options": ["Creative Style Sheets", "Computer Style Sheets", "Cascading Style Sheets", "Colorful Style Sheets"],
+"answer": "Cascading Style Sheets"
+},
+{
+"question": "Which property is used to change the background color?",
+"options": ["color", "bgcolor", "background-color", "background"],
+"answer": "background-color"
+},
+{
+"question": "Which CSS property controls the text size?",
+"options": ["font-style", "text-size", "font-size", "text-style"],
+"answer": "font-size"
+},
+{
+"question": "Which is the correct CSS syntax?",
+"options": ["body {color: black;}", "{body;color:black;}", "{body:color=black;}", "body:color=black;"],
+"answer": "body {color: black;}"
+},
+{
+"question": "How do you insert a comment in a CSS file?",
+"options": ["// this is a comment", "/* this is a comment /", "<!-- this is a comment -->", "# this is a comment"],
+"answer": "/ this is a comment /"
+},
+{
+"question": "Which JavaScript keyword is used to declare a variable?",
+"options": ["var", "dim", "string", "int"],
+"answer": "var"
+},
+{
+"question": "Inside which HTML element do we put JavaScript?",
+"options": ["<script>", "<js>", "<javascript>", "<code>"],
+"answer": "<script>"
+},
+{
+"question": "What is the correct syntax for referring to an external script?",
+"options": ["<script href='app.js'>", "<script name='app.js'>", "<script src='app.js'>", "<script file='app.js'>"],
+"answer": "<script src='app.js'>"
+},
+{
+"question": "How do you write 'Hello World' in an alert box?",
+"options": ["alertBox('Hello World');", "msg('Hello World');", "msgBox('Hello World');", "alert('Hello World');"],
+"answer": "alert('Hello World');"
+},
+{
+"question": "How do you create a function in JavaScript?",
+"options": ["function:myFunction()", "function = myFunction()", "function myFunction()", "create myFunction()"],
+"answer": "function myFunction()"
+},
+{
+"question": "How do you call a function named 'myFunction'?",
+"options": ["call myFunction()", "call function myFunction()", "myFunction()", "Call.myFunction()"],
+"answer": "myFunction()"
+},
+{
+"question": "How do you write an IF statement in JavaScript?",
+"options": ["if i == 5 then", "if i = 5", "if (i == 5)", "if i = 5 then"],
+"answer": "if (i == 5)"
+},
+{
+"question": "How does a WHILE loop start?",
+"options": ["while i = 1 to 10", "while (i <= 10; i++)", "while (i <= 10)", "while i <= 10"],
+"answer": "while (i <= 10)"
+},
+{
+"question": "Which operator is used to assign a value to a variable?",
+"options": ["", "=", "-", "=="],
+"answer": "="
+},
+{
+"question": "What is the correct way to write a JavaScript array?",
+"options": ["var colors = ['red', 'green', 'blue']", "var colors = 'red', 'green', 'blue'", "var colors = (1:'red', 2:'green')", "var colors = 1 = ('red')"],
+"answer": "var colors = ['red', 'green', 'blue']"
+},
+{
+"question": "Which event occurs when the user clicks on an HTML element?",
+"options": ["onchange", "onmouseover", "onclick", "onmouseclick"],
+"answer": "onclick"
+},
+{
+"question": "Which symbol is used for comments in JavaScript?",
+"options": ["<!--", "//", "##", "**"], "answer": "//" }, { "question": "How do you round the number 7.25 to the nearest integer?", "options": ["Math.rnd(7.25)", "Math.round(7.25)", "rnd(7.25)", "round(7.25)"], "answer": "Math.round(7.25)" }, { "question": "Which method converts JSON data to a JavaScript object?", "options": ["JSON.parse()", "JSON.stringify()", "JSON.object()", "JSON.convert()"], "answer": "JSON.parse()" }, { "question": "Which of the following is not a JavaScript data type?", "options": ["string", "number", "boolean", "float"], "answer": "float" }, { "question": "What is the extension of a JavaScript file?", "options": [".js", ".javascript", ".java", ".jvs"], "answer": ".js" }, { "question": "What does XML stand for?", "options": ["Extra Markup Language", "Extendable Markup Language", "Extensible Markup Language", "Executable Markup Language"], "answer": "Extensible Markup Language" }, { "question": "Which tag is used in XML?", "options": ["<xml>", "<data>", "<root>", "All of the above"], "answer": "All of the above" }, { "question": "In XML, which statement is correct?", "options": ["Tags are case-insensitive", "Closing tags are optional", "Every tag must be closed", "You can’t create custom tags"], "answer": "Every tag must be closed" }, { "question": "Which JavaScript method converts an object to JSON string?", "options": ["JSON.stringify()", "JSON.parse()", "JSON.encode()", "JSON.toString()"], "answer": "JSON.stringify()" }, { "question": "Which tool allows server-side JavaScript?", "options": ["React", "Node.js", "Angular", "Bootstrap"], "answer": "Node.js" }, { "question": "Which of the following is used with Node.js?", "options": ["npm", "pip", "composer", "gem"], "answer": "npm" }, { "question": "Which function is used to include a module in Node.js?", "options": ["include()", "import()", "require()", "get()"], "answer": "require()" }, { "question": "Which module in Node.js helps to create a server?", "options": ["http", "url", "fs", "net"], "answer": "http" }, { "question": "Which Node.js object is used to read files?", "options": ["http", "fs", "file", "doc"], "answer": "fs" }, { "question": "What does JSON stand for?", "options": ["JavaScript Object Notation", "Java Source Object Notation", "JavaScript Online Notation", "Java Structured Object Network"], "answer": "JavaScript Object Notation" }, { "question": "Which symbol is used for an object in JSON?", "options": ["{}", "[]", "<>", "()"], "answer": "{}" }, { "question": "What type of language is JavaScript?", "options": ["Compiled", "Object-oriented", "Functional", "Interpreted"], "answer": "Interpreted" }, { "question": "How can you comment in XML?", "options": ["// comment", "/* comment */", "<!-- comment -->", "# comment"],
+"answer": "<!-- comment -->"
+},
+{
+"question": "Which port does a Node.js application usually run on?",
+"options": ["3000", "80", "22", "443"],
+"answer": "3000"
+},
+{
+"question": "Which method writes data to a file in Node.js?",
+"options": ["fs.readFile()", "fs.write()", "fs.writeFile()", "fs.save()"],
+"answer": "fs.writeFile()"
+},
+{
+"question": "Which object in Node.js handles events?",
+"options": ["EventEmitter", "EventHandler", "Emitter", "Events"],
+"answer": "EventEmitter"
+},
+{
+"question": "In JavaScript, what is NaN?",
+"options": ["Not a Name", "Not a Number", "Negative and Null", "No Any Number"],
+"answer": "Not a Number"
+},
+{
+"question": "How do you convert a string to integer in JavaScript?",
+"options": ["Number()", "parseInt()", "parseFloat()", "All of the above"],
+"answer": "All of the above"
+},
+{
+"question": "What is the result of typeof null?",
+"options": ["null", "object", "undefined", "number"],
+"answer": "object"
+},
+{
+"question": "Which method is used to fetch data in modern JavaScript?",
+"options": ["fetch()", "get()", "httpRequest()", "readData()"],
+"answer": "fetch()"
+},
+{
+"question": "Which framework is used to build APIs with Node.js?",
+"options": ["Django", "Flask", "Express", "Rails"],
+"answer": "Express"
+},
+{
+"question": "Which file is entry point of Node.js app?",
+"options": ["main.js", "index.js", "server.js", "app.js"],
+"answer": "server.js"
+},
+{
+"question": "Which package manager comes with Node.js?",
+"options": ["npm", "yarn", "composer", "apt"],
+"answer": "npm"
+},
+{
+"question": "How do you export a module in Node.js?",
+"options": ["module.export()", "export default", "exports = {}", "module.exports = {}"],
+"answer": "module.exports = {}"
+}
+]
